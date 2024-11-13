@@ -1,0 +1,9 @@
+import pygame 
+from os.path import join 
+from os import walk
+
+WINDOW_WIDTH, WINDOW_HEIGHT = 1280,720 
+TILE_SIZE = 64
+MAP_WIDTH = 3200 
+MAP_HEIGHT = 3200
+
