@@ -34,5 +34,5 @@ settings.py is just a file that determines the screen and the game map width and
 5. Expected No. of Pages:
 There are 3 pages: Home screen, in-game screen, and game over screen.
 
-6. Project reference: HERELinks to an external site.
+6. Project reference: (https://www.youtube.com/watch?v=8OMghdHP-zs&t=19350s)
 
